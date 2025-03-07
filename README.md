@@ -10,7 +10,7 @@ This is AI Project focuses on real-time navigation and decision-making in dynami
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/FazlOmar9/MazeSolver.git
+    git clone https://github.com/Ayushparwal/MazeSolver.git
     cd MazeSolver
     ```
 
